@@ -9,7 +9,6 @@ namespace MarkdownDocs
     /// </summary>
     public class Ferarri : Vehicle
     {
-        
         /// <summary>
         /// Impress the ladies
         /// </summary>
