@@ -17,7 +17,49 @@
 
 
 ---
-#### Method Vehicle.AddGasoline(MarkdownDocs.OctaneLevel,System.Int32)
+## Type OctaneRating
+
+ A figure indicating the antiknock properties of a fuel 
+
+
+
+---
+#### Field OctaneRating.Minimum87
+
+ 87 Percent Mixture 
+
+
+
+---
+#### Field OctaneRating.Minimum89
+
+ 89 Percent Mixture 
+
+
+
+---
+#### Field OctaneRating.Minimum93
+
+ 93 Percent Mixture 
+
+
+
+---
+## Type Vehicle
+
+ A transportation device 
+
+
+
+---
+#### Property Vehicle.FuelLevel
+
+ The amount of fuel remaining 
+
+
+
+---
+#### Method Vehicle.AddGasoline(MarkdownDocs.OctaneRating,System.Int32)
 
  Fill 'er up 
 

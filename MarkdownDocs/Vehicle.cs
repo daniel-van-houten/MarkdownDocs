@@ -4,8 +4,14 @@ using System.Text;
 
 namespace MarkdownDocs
 {
+    /// <summary>
+    /// A transportation device
+    /// </summary>
     public abstract class Vehicle
     {
+        /// <summary>
+        /// The amount of fuel remaining
+        /// </summary>
         public int FuelLevel { get; private set; }
 
         /// <summary>
@@ -13,7 +19,7 @@ namespace MarkdownDocs
         /// </summary>
         /// <param name="octaneLevel">The minimum octance level of the fuel</param>
         /// <param name="amount">Amount og gasoline to add in gallons</param>
-        public virtual void AddGasoline(OctaneLevel octaneLevel, int amount)
+        public virtual void AddGasoline(OctaneRating octaneLevel, int amount)
         {
 
         }
