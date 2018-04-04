@@ -9,8 +9,4 @@
     <DocumentationFile>bin\Debug\netcoreapp2.0\MarkdownDocs.xml</DocumentationFile>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="PxtlCa.XmlCommentMarkDownGenerator" Version="0.2.6270.2853" />
-  </ItemGroup>
-
 </Project>
