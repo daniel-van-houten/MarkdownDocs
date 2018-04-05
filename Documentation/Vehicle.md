@@ -3,7 +3,7 @@
 
 **Inheritance:** Object → Vehicle
 
-(No Description)
+A transportation device
 
 ## Signature
 ```csharp

@@ -1,5 +1,5 @@
 # Minimum87 field (MarkdownDocs.OctaneRating)
-(No Description)
+87 Percent Mixture
 
 ## Signature
 ```csharp

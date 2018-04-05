@@ -3,7 +3,7 @@
 
 **Inheritance:** Object → Vehicle → Ferarri
 
-(No Description)
+Super fast, very nice.
 
 ## Signature
 ```csharp

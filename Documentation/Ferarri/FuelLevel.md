@@ -1,5 +1,5 @@
 # FuelLevel property (MarkdownDocs.Vehicle)
-_(No Description)_
+The amount of fuel remaining
 
 ## Signature
 ```csharp

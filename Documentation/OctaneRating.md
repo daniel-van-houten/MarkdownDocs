@@ -3,7 +3,7 @@
 
 **Inheritance:** Object → ValueType → Enum → OctaneRating
 
-(No Description)
+A figure indicating the antiknock properties of a fuel
 
 ## Signature
 ```csharp
