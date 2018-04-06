@@ -3,7 +3,7 @@
 
 Fill 'er up
 
-**Namespace:**&nbsp;<a href="N_MarkdownDocs">MarkdownDocs</a><br />**Assembly:**&nbsp;MarkdownDocsNetFramework (in MarkdownDocsNetFramework.dll) Version: 1.0.0.0 (1.0.0.0)
+**Namespace:**&nbsp;<a href="N_MarkdownDocs.md">MarkdownDocs</a><br />**Assembly:**&nbsp;MarkdownDocsNetFramework (in MarkdownDocsNetFramework.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -17,10 +17,10 @@ public virtual void AddGasoline(
 
 
 #### Parameters
-&nbsp;<dl><dt>octaneLevel</dt><dd>Type: <a href="T_MarkdownDocs_OctaneRating">MarkdownDocs.OctaneRating</a><br />The minimum octance level of the fuel</dd><dt>amount</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/td2s409d" target="_blank">System.Int32</a><br />Amount og gasoline to add in gallons</dd></dl>
+&nbsp;<dl><dt>octaneLevel</dt><dd>Type: <a href="T_MarkdownDocs_OctaneRating.md">MarkdownDocs.OctaneRating</a><br />The minimum octance level of the fuel</dd><dt>amount</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/td2s409d" target="_blank">System.Int32</a><br />Amount og gasoline to add in gallons</dd></dl>
 
 ## See Also
 
 
 #### Reference
-<a href="T_MarkdownDocs_Vehicle">Vehicle Class</a><br /><a href="N_MarkdownDocs">MarkdownDocs Namespace</a><br />
+<a href="T_MarkdownDocs_Vehicle.md">Vehicle Class</a><br /><a href="N_MarkdownDocs.md">MarkdownDocs Namespace</a><br />

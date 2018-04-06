@@ -3,7 +3,7 @@
 
 Impress the ladies
 
-**Namespace:**&nbsp;<a href="N_MarkdownDocs">MarkdownDocs</a><br />**Assembly:**&nbsp;MarkdownDocsNetFramework (in MarkdownDocsNetFramework.dll) Version: 1.0.0.0 (1.0.0.0)
+**Namespace:**&nbsp;<a href="N_MarkdownDocs.md">MarkdownDocs</a><br />**Assembly:**&nbsp;MarkdownDocsNetFramework (in MarkdownDocsNetFramework.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -22,4 +22,4 @@ public void Impress(
 
 
 #### Reference
-<a href="T_MarkdownDocs_Ferarri">Ferarri Class</a><br /><a href="N_MarkdownDocs">MarkdownDocs Namespace</a><br />
+<a href="T_MarkdownDocs_Ferarri.md">Ferarri Class</a><br /><a href="N_MarkdownDocs.md">MarkdownDocs Namespace</a><br />
